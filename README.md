@@ -2,7 +2,7 @@
 
 This project is to showcase sentiment analysis of reactions tweeted by users on spefic events.  
 
-**Procedure:**
+**Overview:**
 
 * Live Twitter feeds were processed using Spark streaming APIs 
 * Used Apache Kafka to queue and buffer the data streams
