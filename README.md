@@ -4,10 +4,10 @@ This project is to showcase sentiment analysis of reactions tweeted by users on 
 
 **Overview:**
 
-* Live Twitter feeds were processed using Spark streaming APIs 
-* Used Apache Kafka to queue and buffer the data streams
-* Analyzed data on the context of positive or negative reactions using classifiers
-* Rendered a plot showcasing positive vs negative reactions real time
+* Live Twitter feed were extractes using Spark streaming APIs 
+* Data streams of tweets were queued and buffered using Apache Kafka
+* Analyzed data on the context of positive or negative reactions using sentiment classifiers
+* Rendered a plot showcasing positive vs negative reactions in real time
 
 **Plot:**
 
